@@ -1,5 +1,6 @@
 import random
 
+
 COULEURS = ('jaune', 'bleu', 'rouge', 'vert', 'blanc', 'noir', 'violet')
 
 def Solution_auto():
